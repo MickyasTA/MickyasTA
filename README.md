@@ -1,12 +1,12 @@
 # Hi 👋, I'm Mickyas Tamiru Asfaw!
 
-A Roboticist with an MSc in Robotics and Computation from UCL, London.
+A Roboticist with an MSc in Mobile Autonomus and Robotics System from Grenoble INP Ense3, France.
 
-- 🔭 All of my projects are available at [MT-Engineering.com](https://akshetpatel.com)
-- 📝 I used to regularly create a YouTube Tutorials on [connectwithiot]([https://connectwithiot.com](https://www.youtube.com/@engineering_design/videos))
-- 💬 Im interestd projects on Mobile Robotics using ROS, Path Planning and Control, Machine Learning,
+- 🔭 All of my project tutorials are available at [MT-Engineering.com](https://akshetpatel.com)
+- 📝 I regularly create YouTube tutorials on [MT-Engineering YouTube Channel](https://www.youtube.com/@engineering_design/videos)
+- 💬 I'm interested in projects on Mobile Robotics and Drones using ROS2, Path Planning and Control, Machine Learnin and Reinforcement learning.
 - 📫 How to reach me: mickyastamiru92@gmail.com
-- 📄 [View my Resume]([https://drive.google.com/file/d/1meHII1F4yWSmQbxn9w27RQ6hoHT0z31y/view?pli=1](https://drive.google.com/file/d/13lvnPGJw8ME72Wn5BSNoX3wcaWiKYHl1/view?usp=sharing)) (Last Updated - 03.08.2024)
+- 📄 [View my Resume](https://drive.google.com/file/d/13lvnPGJw8ME72Wn5BSNoX3wcaWiKYHl1/view?usp=sharing) (Last Updated - 03.08.2024)
 
 ### Connect with me:
 [![YouTube](https://img.shields.io/badge/YouTube-@engineering__design-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@engineering_design/videos)
