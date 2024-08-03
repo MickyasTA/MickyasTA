@@ -37,8 +37,6 @@ A Robotics Engineer with an MSc in Mobile Autonomus and Robotics System from Gre
 
 ### Pinned Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=robotics-resources)](https://github.com/MickyasTA/robotics-resources)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=DRL_robot_navigation_ros2)](https://github.com/MickyasTA/DRL_robot_navigation_ros2)
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MickyasTA&theme=dracula)
-
-### Career Aspirations
-I intend to continue working after the internship to tackle more challenging robotics navigation and control problems, further enhancing my skills and contributing to the advancement of the field.
