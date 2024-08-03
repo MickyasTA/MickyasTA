@@ -2,15 +2,16 @@
 
 A Roboticist with an MSc in Robotics and Computation from UCL, London.
 
-- 🔭 All of my projects are available at [akshetpatel.com](https://akshetpatel.com)
+- 🔭 All of my projects are available at [MT-Engineering.com](https://akshetpatel.com)
 - 📝 I used to regularly create a YouTube Tutorials on [connectwithiot]([https://connectwithiot.com](https://www.youtube.com/@engineering_design/videos))
 - 💬 Im interestd projects on Mobile Robotics using ROS, Path Planning and Control, Machine Learning,
 - 📫 How to reach me: mickyastamiru92@gmail.com
 - 📄 [View my Resume]([https://drive.google.com/file/d/1meHII1F4yWSmQbxn9w27RQ6hoHT0z31y/view?pli=1](https://drive.google.com/file/d/13lvnPGJw8ME72Wn5BSNoX3wcaWiKYHl1/view?usp=sharing)) (Last Updated - 03.08.2024)
 
 ### Connect with me:
-[![YouTube](https://img.shields.io/badge/@engineering_design/videos?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@akshetpatel](https://www.youtube.com/@engineering_design/videos))
-[![LinkedIn](https://img.shields.io/badge/[LinkedIn-@akshetpatel-0077B5](https://www.linkedin.com/in/mickyas-tamiru-asfaw-1409271a6/)?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/akshetpatel](https://www.linkedin.com/in/mickyas-tamiru-asfaw-1409271a6/))
+[![YouTube](https://img.shields.io/badge/YouTube-@engineering__design-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@engineering_design/videos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mickyas%20Tamiru%20Asfaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickyas-tamiru-asfaw-1409271a6/)
+
 
 ### Languages and Tools:
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
