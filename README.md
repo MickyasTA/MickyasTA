@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mickyas Tamiru Asfaw!
 
-A Roboticist with an MSc in Mobile Autonomus and Robotics System from Grenoble INP Ense3, France.
+A Robotics Engineer with an MSc in Mobile Autonomus and Robotics System from Grenoble INP Ense3, France.
 
 - 🔭 All of my project tutorials are available at [MT-Engineering.com](https://akshetpatel.com)
 - 📝 I regularly create YouTube tutorials on [MT-Engineering YouTube Channel](https://www.youtube.com/@engineering_design/videos)
