@@ -37,18 +37,8 @@ A Robotics Engineer with an MSc in Mobile Autonomus and Robotics System from Gre
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&layout=compact&theme=radical&langs_count=5" alt="Top Langs by Repo" style="max-width: 45%;">
 </div>
 
-### Commits (UTC +8.00):
+### Commits (UTC +8.00)  and Pinned Projects:
 <div style="display: flex; justify-content: center; background-color: white; padding: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MickyasTA&theme=radical&fire=DD2727" alt="Commits">
-</div>
-
-### Stats:
-<div style="display: flex; justify-content: center; background-color: white; padding: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=MickyasTA&theme=radical&row=1&column=7" alt="GitHub Stats">
-</div>
-
-### Pinned Projects:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: white; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=DRL_robot_navigation_ros2&theme=radical" alt="Pinned Project 2" style="max-width: 45%;">
-</div>
-
+  </div>
