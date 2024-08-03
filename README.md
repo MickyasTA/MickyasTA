@@ -35,8 +35,21 @@ A Robotics Engineer with an MSc in Mobile Autonomus and Robotics System from Gre
 ### GitHub Stats:
 ![Mickyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickyasTA&show_icons=true&theme=radical)
 
+### Top Languages by Repo:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&layout=compact&theme=radical&langs_count=5)
+
+### Top Languages by Commit:
+![Top Langs by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&theme=radical&langs_count=5&card_width=445)
+
+### Commits (UTC +8.00):
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=MickyasTA&theme=radical&fire=DD2727)
+
+### Stats:
+![GitHub Stats](https://github-profile-trophy.vercel.app/?username=MickyasTA&theme=radical&row=1&column=7)
+
 ### Pinned Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=robotics-resources)](https://github.com/MickyasTA/robotics-resources)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=DRL_robot_navigation_ros2)](https://github.com/MickyasTA/DRL_robot_navigation_ros2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=robotics-resources&theme=radical)](https://github.com/MickyasTA/robotics-resources)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=DRL_robot_navigation_ros2&theme=radical)](https://github.com/MickyasTA/DRL_robot_navigation_ros2)
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MickyasTA&theme=dracula)
+
