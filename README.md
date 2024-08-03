@@ -33,23 +33,30 @@ A Robotics Engineer with an MSc in Mobile Autonomus and Robotics System from Gre
 [![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://stable-baselines3.readthedocs.io/en/master/)
 
 ### GitHub Stats:
-![Mickyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickyasTA&show_icons=true&theme=radical)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: white; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MickyasTA&show_icons=true&theme=radical" alt="Mickyas's GitHub stats" style="max-width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&layout=pie&theme=radical&langs_count=5" alt="Top Langs" style="max-width: 45%;">
+</div>
 
 ### Top Languages by Repo:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&layout=compact&theme=radical&langs_count=5)
-
-### Top Languages by Commit:
-![Top Langs by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&theme=radical&langs_count=5&card_width=445)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: white; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&layout=compact&theme=radical&langs_count=5" alt="Top Langs by Repo" style="max-width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&theme=radical&langs_count=5&card_width=445" alt="Top Langs by Commit" style="max-width: 45%;">
+</div>
 
 ### Commits (UTC +8.00):
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=MickyasTA&theme=radical&fire=DD2727)
+<div style="display: flex; justify-content: center; background-color: white; padding: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MickyasTA&theme=radical&fire=DD2727" alt="Commits">
+</div>
 
 ### Stats:
-![GitHub Stats](https://github-profile-trophy.vercel.app/?username=MickyasTA&theme=radical&row=1&column=7)
+<div style="display: flex; justify-content: center; background-color: white; padding: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=MickyasTA&theme=radical&row=1&column=7" alt="GitHub Stats">
+</div>
 
 ### Pinned Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=robotics-resources&theme=radical)](https://github.com/MickyasTA/robotics-resources)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=DRL_robot_navigation_ros2&theme=radical)](https://github.com/MickyasTA/DRL_robot_navigation_ros2)
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MickyasTA&theme=dracula)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: white; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=robotics-resources&theme=radical" alt="Pinned Project 1" style="max-width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MickyasTA&repo=DRL_robot_navigation_ros2&theme=radical" alt="Pinned Project 2" style="max-width: 45%;">
+</div>
 
