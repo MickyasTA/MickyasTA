@@ -32,14 +32,9 @@ A Robotics Engineer with an MSc in Mobile Autonomus and Robotics System from Gre
 [![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/tensorboard)
 [![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://stable-baselines3.readthedocs.io/en/master/)
 
-### GitHub Stats:
+### GitHub Stats Top Languages by Repo:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: white; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=MickyasTA&show_icons=true&theme=radical" alt="Mickyas's GitHub stats" style="max-width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&layout=pie&theme=radical&langs_count=5" alt="Top Langs" style="max-width: 45%;">
-</div>
-
-### Top Languages by Repo:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: white; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&layout=compact&theme=radical&langs_count=5" alt="Top Langs by Repo" style="max-width: 45%;">
 </div>
 
