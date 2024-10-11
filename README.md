@@ -3,7 +3,7 @@
 A Robotics Engineer with an MSc in Mobile Autonomus and Robotics System from Grenoble INP Ense3, France.
 
 - 📝 I create YouTube tutorials on [MT-Engineering YouTube Channel](https://www.youtube.com/@engineering_design/videos)
-- 💬 I'm interested in projects on Mobile Robotics and Drones using ROS2, Path Planning and Control, Machine Learning and Reinforcement learning.
+- 💬 I'm interested in projects on Medical Robot, Mobile Robotics and Drones using ROS2, Path Planning and Control, Machine Learning and Reinforcement learning.
 - 📫 How to reach me: mickyastamiru92@gmail.com
 - 📄 [View my Resume](https://drive.google.com/file/d/13lvnPGJw8ME72Wn5BSNoX3wcaWiKYHl1/view?usp=sharing) (Last Updated - 03.08.2024)
 
