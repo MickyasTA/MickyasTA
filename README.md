@@ -1,13 +1,15 @@
 # Hi 👋, I'm Mickyas Tamiru Asfaw!
 
-A Robotics Engineer with an MSc in Mobile Autonomus and Robotics System from Grenoble INP Ense3, France.
+A Robotics Engineer with an MSc in Mobile, Autonomous and Robotic Systems from Grenoble INP ENSE3, France — currently AI Robotics Research & Innovation Engineer at CESI LINEACT (Rouen).
 
+- 🌐 **Explore my portfolio: [mickyasta.github.io](https://mickyasta.github.io)** — my projects with live demos, videos, experience and publications
 - 📝 I create YouTube tutorials on [MT-Engineering YouTube Channel](https://www.youtube.com/@engineering_design/videos)
-- 💬 I'm interested in projects on Medical Robot, Mobile Robotics and Drones using ROS2, Path Planning and Control, Machine Learning and Reinforcement learning.
-- 📫 How to reach me: mickyastamiru92@gmail.com
-- 📄 [View my Resume](https://drive.google.com/file/d/13lvnPGJw8ME72Wn5BSNoX3wcaWiKYHl1/view?usp=sharing) (Last Updated - 03.08.2024)
+- 💬 I'm interested in projects on Mobile Robotics, Drones and Hybrid Robots using ROS2, Reinforcement Learning, Control, and Digital Twins.
+- 📫 How to reach me: [mickyastamiru92@gmail.com](mailto:mickyastamiru92@gmail.com)
+- 📄 [View my Resume](https://drive.google.com/file/d/13lvnPGJw8ME72Wn5BSNoX3wcaWiKYHl1/view?usp=sharing)
 
 ### Connect with me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-mickyasta.github.io-e08a3c?style=for-the-badge&logo=githubpages&logoColor=white)](https://mickyasta.github.io)
 [![YouTube](https://img.shields.io/badge/YouTube-@engineering__design-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@engineering_design/videos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mickyas%20Tamiru%20Asfaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickyas-tamiru-asfaw-1409271a6/)
 
@@ -30,6 +32,7 @@ A Robotics Engineer with an MSc in Mobile Autonomus and Robotics System from Gre
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-006400?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/tensorboard)
 [![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://stable-baselines3.readthedocs.io/en/master/)
+[![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=deepmind&logoColor=white)](https://mujoco.org/)
 
 ### GitHub Stats Top Languages by Repo:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: white; padding: 10px;">
@@ -37,7 +40,7 @@ A Robotics Engineer with an MSc in Mobile Autonomus and Robotics System from Gre
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&layout=compact&theme=radical&langs_count=5" alt="Top Langs by Repo" style="max-width: 45%;">
 </div>
 
-### Commits (UTC +8.00) :
+### GitHub Streak:
 <div style="display: flex; justify-content: center; background-color: white; padding: 8px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MickyasTA&theme=radical&fire=DD2727" alt="Commits">
-  </div>
+  <img src="https://streak-stats.demolab.com?user=MickyasTA&theme=radical&fire=DD2727" alt="GitHub commit streak">
+</div>
