@@ -37,8 +37,6 @@ A Robotics Engineer with an MSc in Mobile, Autonomous and Robotic Systems from G
 ### GitHub Activity:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MickyasTA&theme=radical&fire=DD2727" alt="GitHub commit streak">
-  <br><br>
-  <img src="https://ghchart.rshah.org/DD2727/MickyasTA" alt="Contribution graph" width="90%">
 </div>
 
 <!-- The github-readme-stats public instance (github-readme-stats.vercel.app) returns 503 (rate-limited);
