@@ -34,13 +34,16 @@ A Robotics Engineer with an MSc in Mobile, Autonomous and Robotic Systems from G
 [![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://stable-baselines3.readthedocs.io/en/master/)
 [![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=deepmind&logoColor=white)](https://mujoco.org/)
 
-### GitHub Stats Top Languages by Repo:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: white; padding: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MickyasTA&show_icons=true&theme=radical" alt="Mickyas's GitHub stats" style="max-width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&layout=compact&theme=radical&langs_count=5" alt="Top Langs by Repo" style="max-width: 45%;">
+### GitHub Activity:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MickyasTA&theme=radical&fire=DD2727" alt="GitHub commit streak">
+  <br><br>
+  <img src="https://ghchart.rshah.org/DD2727/MickyasTA" alt="Contribution graph" width="90%">
 </div>
 
-### GitHub Streak:
-<div style="display: flex; justify-content: center; background-color: white; padding: 8px;">
-  <img src="https://streak-stats.demolab.com?user=MickyasTA&theme=radical&fire=DD2727" alt="GitHub commit streak">
-</div>
+<!-- The github-readme-stats public instance (github-readme-stats.vercel.app) returns 503 (rate-limited);
+     restore these after self-hosting your own instance (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own):
+  <img src="https://github-readme-stats.vercel.app/api?username=MickyasTA&show_icons=true&theme=radical" alt="Mickyas's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyasTA&layout=compact&theme=radical&langs_count=5" alt="Top Langs by Repo">
+-->
+
