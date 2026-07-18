@@ -6,7 +6,7 @@ A Robotics Engineer with an MSc in Mobile, Autonomous and Robotic Systems from G
 - 📝 I create YouTube tutorials on [MT-Engineering YouTube Channel](https://www.youtube.com/@engineering_design/videos)
 - 💬 I'm interested in projects on Mobile Robotics, Drones and Hybrid Robots using ROS2, Reinforcement Learning, Control, and Digital Twins.
 - 📫 How to reach me: [mickyastamiru92@gmail.com](mailto:mickyastamiru92@gmail.com)
-- 📄 [View my Resume](https://drive.google.com/file/d/13lvnPGJw8ME72Wn5BSNoX3wcaWiKYHl1/view?usp=sharing)
+- 📄 [View my Resume](https://drive.google.com/file/d/1Aik2epLozG_vpoSPBOUh8xln-NW7_5vg/view?usp=sharing)
 
 ### Connect with me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-mickyasta.github.io-e08a3c?style=for-the-badge&logo=githubpages&logoColor=white)](https://mickyasta.github.io)
